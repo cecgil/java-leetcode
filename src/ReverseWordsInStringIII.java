@@ -21,7 +21,6 @@ public class ReverseWordsInStringIII {
         }
 
         sb.append(new StringBuilder(s.substring(l, r)).reverse());
-
         return sb.toString();
 
     }
