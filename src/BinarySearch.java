@@ -19,7 +19,7 @@ public class BinarySearch {
             else if (nums[mid] < n) {
                 left = mid + 1;
             } else {
-                right = mid;
+                right = mid - 1;
             }
         }
 
