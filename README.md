@@ -1,18 +1,16 @@
-## Getting Started
+ 📝 LeetCode Solutions - Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repositório com soluções de problemas do **[LeetCode](https://leetcode.com/)** implementadas em **Java**.  
+O objetivo é praticar lógica de programação, estruturas de dados e algoritmos, documentando o raciocínio de cada questão.
 
-## Folder Structure
+## 📌 Conteúdo
 
-The workspace contains two folders by default, where:
+- Soluções organizadas por dificuldade (**Easy**, **Medium**, **Hard**).
+- Códigos otimizados e comentados.
+- Resolução de problemas clássicos de algoritmos e estruturas de dados.
+- Alguns problemas com múltiplas abordagens.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🚀 Tecnologias
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **Java 17+**
+- **Git** e **GitHub** para versionamento
